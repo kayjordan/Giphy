@@ -19,11 +19,7 @@ var SelectGIF = function(animal) {
     }
   });
   }
-  
-
 var animals = ["Pig", "Cow", "Llama", "Donkey", "Monkey", "Cat", "Mouse", "T-Rex", "Puppy", "Bird", "Snake", "Sloth", "Bunny","Fish", "Wolf", "Squirrel"];
-
-
 
 var buttonCreator = function() 
 {
